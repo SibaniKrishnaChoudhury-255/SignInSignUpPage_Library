@@ -1,0 +1,3 @@
+rootProject.name='signIn_and_signUp'
+include ':app'
+include ':signin_and_signuppage'
